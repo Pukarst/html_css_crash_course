@@ -1,0 +1,8 @@
+-blockline elements span full width.
+-inline elements only takes the necessary width.
+-link the css file in the head so the styles load before the page renders.
+-use only one <h1> per page , followed by <h2>,<h3>,...
+-combine semantic markup with the font-families,weights and spacing.
+-use CSS 'line-height','margin' and 'letter-spacing' to improve the readability.
+-maintain the consistent spacing scale (4,8,12,....).
+-a spacing scale is the simple list of the numbers that we reuse so the gap feels balanced.
