@@ -1,3 +1,5 @@
+==========================Notes==========================
+
 -blockline elements span full width.
 -inline elements only takes the necessary width.
 -link the css file in the head so the styles load before the page renders.
