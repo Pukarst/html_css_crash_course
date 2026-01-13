@@ -1,0 +1,15 @@
+==========================Notes==========================
+-structured data means information arranged in the rows and columns.
+-<ul> is for the unordered list like bullets and <ol> is for the ordered list like numbers,alphabet.
+-<table> organized the tabular data with <tr> for rows, <th> for header cell and <td> for the data cells.
+-wrapping in a horizontal scrollable container (overflow-x:auto) keeps tables usable on the small screens.
+
+
+-links connect the site together.
+-target="_blank" opens the link in the new tab.
+-a hamburger menu "☰" is the three-line button that expand to show the links on the small screen.
+
+
+-alt describe the image for the screen readers and shows if the images fail to load.
+-src tells the browser where the file is located.
+the poster attribute shows a preview before the playback.
