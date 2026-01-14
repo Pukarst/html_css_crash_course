@@ -1,0 +1,6 @@
+==========================Notes==========================
+-forms collect the user input.
+-'get' puts the form data in the url which is good for the searches and 'post' sends the data in the request body which is good for the sign-ups.
+-the browser toggle the ':invalid' and ':valid' states based on the inputs values and types.
+-use https so that the data is encrypted while travelling between the browser and server.
+-protect against CSRF and XSS when handling submissions.
